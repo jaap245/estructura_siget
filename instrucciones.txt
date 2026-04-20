@@ -1,0 +1,9 @@
+PROYECTO: Simulación de Algoritmos de Planificación (SJF y Round Robin)
+ESTUDIANTE: Jorge Andrés Arango Puerta
+MATERIA: Sistemas Operativos 2
+
+INSTRUCCIONES DE EJECUCIÓN:
+1. Abrir el archivo .ipynb adjunto en Google Colab.
+2. Cargar las librerías necesarias (pandas y plotly).
+3. Ejecutar todas las celdas para visualizar las tablas de resultados.
+4. Los datos de entrada corresponden a los procesos P1-P5 del taller.
